@@ -1,0 +1,10 @@
+ag/ifpb/pod/rmi/heroku/client/AppClient$1.class
+ag/ifpb/pod/rmi/heroku/share/Publisher.class
+ag/ifpb/pod/rmi/heroku/client/AppClient.class
+ag/ifpb/pod/rmi/heroku/share/Subscriber.class
+ag/ifpb/pod/rmi/heroku/client/ChatClientImpl.class
+ag/ifpb/pod/rmi/heroku/share/Polling.class
+ag/ifpb/pod/rmi/heroku/share/TopicManager.class
+ag/ifpb/pod/rmi/heroku/client/ChatClient.class
+ag/ifpb/pod/rmi/heroku/share/Topic.class
+ag/ifpb/pod/rmi/heroku/share/Message.class
